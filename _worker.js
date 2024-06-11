@@ -1,7 +1,7 @@
 
 // 部署完成后在网址后面加上这个，获取自建节点和机场聚合节点，/?token=auto或/auto或
 
-let mytoken = 'auto'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
+let mytoken = 'dingyue'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
 let BotToken =''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
 let ChatID =''; //可以为空，或者@userinfobot中获取，/start
 let TG = 0; //小白勿动， 开发者专用，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
@@ -12,9 +12,12 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
-https://sub.xf.free.hr/auto
-https://WARP.fxxk.dedyn.io/auto
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.17.144.208:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.18.47.87:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.16.204.117:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.17.57.18:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.17.158.18:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+https://free1.makabahay.sbs/d1bbb57c-c1c1-441b-8720-d7b20a67af39
 `
 
 let urls = [];
