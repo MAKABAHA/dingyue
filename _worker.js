@@ -17,6 +17,18 @@ vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.18.47.87:443?encryption=none&se
 vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.16.204.117:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
 vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.17.57.18:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
 vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.17.158.18:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.19.34.153:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.16.90.84:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.19.41.104:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@172.67.12.183:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@172.67.8.15:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@172.67.5.40:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.18.95.47:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.17.109.116:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.17.24.19:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@198.41.220.99:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@172.64.155.1:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.19.156.202:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
 https://free1.makabahay.sbs/d1bbb57c-c1c1-441b-8720-d7b20a67af39
 `
 
