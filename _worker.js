@@ -12,12 +12,8 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.16.201.206:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
-vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@162.159.143.136:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
-vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.17.221.194:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
-vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.16.197.37:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
-vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.19.153.115:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
-vless://21eb34b1-ddcf-4958-87aa-a1f1457d8b91@104.18.185.92:443?encryption=none&security=tls&sni=free.makabahay.sbs&fp=randomized&type=ws&host=free.makabahay.sbs&path=%2F%3Fed%3D2048#free.makabahay.sbs
+vless://d1bbb57c-c1c1-441b-8720-d7b20a67af39@104.16.42.197:443?encryption=none&security=tls&sni=free1.makabahay.sbs&fp=randomized&type=ws&host=free1.makabahay.sbs&path=%2F%3Fed%3D2560#1
+vless://d1bbb57c-c1c1-441b-8720-d7b20a67af39@104.16.41.166:443?encryption=none&security=tls&sni=free1.makabahay.sbs&fp=randomized&type=ws&host=free1.makabahay.sbs&path=%2F%3Fed%3D2560#2
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NUMwRlx1OUUyMTEiLA0KICAiYWRkIjogIjEwNC4xNi4yMDEuMjA2IiwNCiAgInBvcnQiOiAiMjA1MyIsDQogICJpZCI6ICIxMDhkMWIxYS1lNzA0LTRmMWQtYmQ2OC1mYzM0OWQzZmU4MTIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRzdW5hbWktc3RvcmVzLWRlZmVhdC1lbm91Z2gudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICIxMDhkMWIxYSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NUMwRlx1OUUyMTIiLA0KICAiYWRkIjogIjEwNC4xNy4yMjEuMTk0IiwNCiAgInBvcnQiOiAiMjA1MyIsDQogICJpZCI6ICIxMDhkMWIxYS1lNzA0LTRmMWQtYmQ2OC1mYzM0OWQzZmU4MTIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRzdW5hbWktc3RvcmVzLWRlZmVhdC1lbm91Z2gudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICIxMDhkMWIxYSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://6ad70222-cfe1-47c0-cfc2-43f588c3f949@43.198.87.67:24273?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cps2-staging.sznrvzdclenikt.speedy.cloud&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&headerType=none#reality
