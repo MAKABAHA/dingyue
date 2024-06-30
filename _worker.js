@@ -19,6 +19,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NUMwRlx1OUUyMTIiLA0KICAiYWRkIjogIjEw
 vless://6ad70222-cfe1-47c0-cfc2-43f588c3f949@43.198.87.67:24273?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cps2-staging.sznrvzdclenikt.speedy.cloud&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&headerType=none#reality
 ss://YWVzLTI1Ni1nY206NDJybWcyS1EwcjlqNjkzOFYwTmhvd2xJaFpSWVNEdmtOcTJJOUZ4eU5EUVk=@43.198.87.67:57488#ss
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtZXNzXHUwMDJCd3MiLA0KICAiYWRkIjogIjQzLjE5OC44Ny42NyIsDQogICJwb3J0IjogIjM2MDk4IiwNCiAgImlkIjogIjBlNDE0ZTIwLTM3MTQtNGFlMS1iMzJhLWEzNDE2NjJjY2RmMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzBlNDE0ZTIwIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+hysteria2://d235c537@167.253.152.44:35525/?sni=www.bing.com&insecure=1#LAM%20US
 https://free1.makabahay.sbs/d1bbb57c-c1c1-441b-8720-d7b20a67af39
 `
 
