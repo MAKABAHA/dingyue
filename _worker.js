@@ -23,6 +23,7 @@ vless://54fbfe58-18d5-4392-b26e-276af29fdf51@43.198.87.67:21943?encryption=none&
 tuic://54fbfe58-18d5-4392-b26e-276af29fdf51:54fbfe58-18d5-4392-b26e-276af29fdf51@aws.makabahay.sbs:55300?sni=aws.makabahay.sbs&alpn=h3&congestion_control=bbr#AWS%20HK%20TU5%2025.6.30
 hysteria2://54fbfe58-18d5-4392-b26e-276af29fdf51@aws.makabahay.sbs:18061/?sni=aws.makabahay.sbs&alpn=h3&insecure=0#AWS%20HK%20HY2%2025.6.30
 https://free1.makabahay.sbs/d1bbb57c-c1c1-441b-8720-d7b20a67af39
+hysteria2://6FStGEw3Xbb98wQv08JPrMaH@[2604:abc0:103:415:2::cf]:40443/?sni=bing.com&insecure=1#PAS%20US%20HY2%2024.7.25
 `
 
 let urls = [];
