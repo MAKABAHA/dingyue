@@ -21,7 +21,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFXUyBISyBWTUVTUyAyNS42LjMwIiwNCiAgImFk
 vless://54fbfe58-18d5-4392-b26e-276af29fdf51@43.198.87.67:21943?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=tkg1VHc4BgFZAjZ5U0OarE_nhkSV9bWAk4H5rlKwbBQ&sid=f4780141&type=tcp&headerType=none#AWS%20HK%20VLESS%2025.6.30
 tuic://54fbfe58-18d5-4392-b26e-276af29fdf51:54fbfe58-18d5-4392-b26e-276af29fdf51@aws.makabahay.sbs:55300?sni=aws.makabahay.sbs&alpn=h3&congestion_control=bbr#AWS%20HK%20TU5%2025.6.30
 hysteria2://54fbfe58-18d5-4392-b26e-276af29fdf51@aws.makabahay.sbs:18061/?sni=aws.makabahay.sbs&alpn=h3&insecure=0#AWS%20HK%20HY2%2025.6.30
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NUMwRlx1OUUyMSBVUyA3LjI1IiwNCiAgImFkZCI6ICIxMDQuMTYuMjAxLjIwNiIsDQogICJwb3J0IjogIjIwNTMiLA0KICAiaWQiOiAiMTA4ZDFiMWEtZTcwNC00ZjFkLWJkNjgtZmMzNDlkM2ZlODEyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0c3VuYW1pLXN0b3Jlcy1kZWZlYXQtZW5vdWdoLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiMTA4ZDFiMWEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 https://free1.makabahay.sbs/d1bbb57c-c1c1-441b-8720-d7b20a67af39
 `
 
