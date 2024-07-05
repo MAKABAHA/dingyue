@@ -15,9 +15,8 @@ let MainData = `
 vless://d1bbb57c-c1c1-441b-8720-d7b20a67af39@104.16.42.197:443?encryption=none&security=tls&sni=free1.makabahay.sbs&fp=randomized&type=ws&host=free1.makabahay.sbs&path=%2F%3Fed%3D2560#%E5%90%8E%E7%BC%80%E5%B8%A6%E6%97%B6%E9%97%B4%E7%9A%84%E5%B0%91%E7%94%A8
 vless://d1bbb57c-c1c1-441b-8720-d7b20a67af39@104.16.42.197:443?encryption=none&security=tls&sni=free1.makabahay.sbs&fp=randomized&type=ws&host=free1.makabahay.sbs&path=%2F%3Fed%3D2560#CF%E4%BC%98%E9%80%89%2025.5.31
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxhbSBVUyBWTUVTUyAyNS4yLjEiLA0KICAiYWRkIjogIjEwNC4xNy4xODEuMjE3IiwNCiAgInBvcnQiOiAiMjA4MyIsDQogICJpZCI6ICI2NmNlZTJmMy1kZTI2LTRmOWMtYmRkZi0yODM5NzdmNDMyYzgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImxhbS5tYWthYmFoYXkuc2JzIiwNCiAgInBhdGgiOiAiNjZjZWUyZjMtZGUyNi00ZjljLWJkZGYtMjgzOTc3ZjQzMmM4LXZtIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImxhbS5tYWthYmFoYXkuc2JzIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vless://66cee2f3-de26-4f9c-bddf-283977f432c8@167.253.152.44:13004?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=pqfsh6cfbKeWtOUAng2DFmXzzMjiFElhjWvOIIT6JlQ&sid=85ac9b85&type=tcp&headerType=none#Lam%20US%20VLESS%2025.2.1
 hysteria2://66cee2f3-de26-4f9c-bddf-283977f432c8@lam.makabahay.sbs:28949/?sni=lam.makabahay.sbs&alpn=h3&insecure=0#Lam%20US%20HY2%2025.2.1
-hysteria2://6FStGEw3Xbb98wQv08JPrMaH@[2604:abc0:103:415:2::cf]:40443/?sni=bing.com&insecure=1#PAS%20US%20HY2%2024.7.25
+hysteria2://6FStGEw3Xbb98wQv08JPrMaH@[2604:abc0:103:415:2::cf]:40443/?sni=bing.com&insecure=1#PAS%20US%2024.7.25
 hysteria2://fa3b25cb-e53b-4e62-88ca-e7c18fd3bafa@gcp.makabahay.sbs:17096/?sni=gcp.makabahay.sbs&alpn=h3&insecure=0#GCP%20JP%2024.9.2
 hysteria2://e9918ad3-f8b7-4d28-a699-badebceae367@aws.makabahay.sbs:36979/?sni=aws.makabahay.sbs&alpn=h3&insecure=0#AWS%20SG%2025.5.31
 https://free1.makabahay.sbs/d1bbb57c-c1c1-441b-8720-d7b20a67af39
