@@ -19,7 +19,7 @@ hysteria2://a6add7e5-cc03-4595-aa81-a633327c9ee3@lam.makabahay.sbs:37531/?sni=la
 hysteria2://6FStGEw3Xbb98wQv08JPrMaH@[2604:abc0:103:415:2::cf]:40443/?sni=bing.com&insecure=1#PAS%20US%2024.7.25
 hysteria2://fa3b25cb-e53b-4e62-88ca-e7c18fd3bafa@gcp.makabahay.sbs:17096/?sni=gcp.makabahay.sbs&alpn=h3&insecure=0#GCP%20JP%2024.9.2
 hysteria2://e9918ad3-f8b7-4d28-a699-badebceae367@aws.makabahay.sbs:36979/?sni=aws.makabahay.sbs&alpn=h3&insecure=0#AWS%20SG%2025.5.31
-vless://5c3f4097-3c42-11ef-848c-3cecef19f60c@162.159.60.57:443?encryption=none&security=tls&sni=costume-eligible-pentium-software.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=costume-eligible-pentium-software.trycloudflare.com&path=%2Fws%3Fed%3D2048#Serv%20PL%2033.11.28
+vless://5c3f4097-3c42-11ef-848c-3cecef19f60c@185.146.173.182:443?encryption=none&security=tls&sni=costume-eligible-pentium-software.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=costume-eligible-pentium-software.trycloudflare.com&path=%2Fws%3Fed%3D2048#Serv%20PL%2033.11.28
 https://free1.makabahay.sbs/d1bbb57c-c1c1-441b-8720-d7b20a67af39
 `
 
