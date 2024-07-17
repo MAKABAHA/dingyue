@@ -13,7 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 vless://d1bbb57c-c1c1-441b-8720-d7b20a67af39@185.146.173.182:443?encryption=none&security=tls&sni=free1.makabahay.sbs&fp=randomized&type=ws&host=free1.makabahay.sbs&path=%2F%3Fed%3D2560#CF%E4%BC%98%E9%80%89%2025.5.31
-hysteria2://160a4141-3dec-4e54-9105-ae02b8ab962d@ak.makabahay.sbs:59247/?sni=ak.makabahay.sbs&alpn=h3&insecure=0#AK%20HK%2024.8.12
+hysteria2://160a4141-3dec-4e54-9105-ae02b8ab962d@[2400:e3e0:f5a9:82aa:5470:b7c9:7c2c:bb76]:59247/?sni=ak.makabahay.sbs&alpn=h3&insecure=0#AK%20HK%2024.8.12
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFLIEhLIDI0LjguMTIiLA0KICAiYWRkIjogIjI0MDA6ZTNlMDpmNWE5OjgyYWE6NTQ3MDpiN2M5OjdjMmM6YmI3NiIsDQogICJwb3J0IjogIjIwODMiLA0KICAiaWQiOiAiMTYwYTQxNDEtM2RlYy00ZTU0LTkxMDUtYWUwMmI4YWI5NjJkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhay5tYWthYmFoYXkuc2JzIiwNCiAgInBhdGgiOiAiMTYwYTQxNDEtM2RlYy00ZTU0LTkxMDUtYWUwMmI4YWI5NjJkLXZtIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImFrLm1ha2FiYWhheS5zYnMiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 hysteria2://47b9a630-321a-453d-8251-b10fb918fbf5@vu.makabahay.sbs:19018/?sni=vu.makabahay.sbs&alpn=h3&insecure=0#VU%20US%2025.7.9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZVIFVTIDI1LjcuOSIsDQogICJhZGQiOiAiMjAwMToxOWYwOjgwMDE6MDgyODo1NDAwOjA1ZmY6ZmUwNDo0NmJiIiwNCiAgInBvcnQiOiAiMjA5NiIsDQogICJpZCI6ICI0N2I5YTYzMC0zMjFhLTQ1M2QtODI1MS1iMTBmYjkxOGZiZjUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInZ1Lm1ha2FiYWhheS5zYnMiLA0KICAicGF0aCI6ICI0N2I5YTYzMC0zMjFhLTQ1M2QtODI1MS1iMTBmYjkxOGZiZjUtdm0iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidnUubWFrYWJhaGF5LnNicyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
