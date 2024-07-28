@@ -18,13 +18,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFLIEhLIDI0LjguMTIiLA0KICAiYWRkIjogIjI0
 hysteria2://47b9a630-321a-453d-8251-b10fb918fbf5@vu.makabahay.sbs:19018/?sni=vu.makabahay.sbs&alpn=h3&insecure=0#VU%20US%2025.7.9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZVIFVTIDI1LjcuOSIsDQogICJhZGQiOiAiMjAwMToxOWYwOjgwMDE6MDgyODo1NDAwOjA1ZmY6ZmUwNDo0NmJiIiwNCiAgInBvcnQiOiAiMjA5NiIsDQogICJpZCI6ICI0N2I5YTYzMC0zMjFhLTQ1M2QtODI1MS1iMTBmYjkxOGZiZjUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInZ1Lm1ha2FiYWhheS5zYnMiLA0KICAicGF0aCI6ICI0N2I5YTYzMC0zMjFhLTQ1M2QtODI1MS1iMTBmYjkxOGZiZjUtdm0iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidnUubWFrYWJhaGF5LnNicyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 hysteria2://969d8562-6179-4968-b113-45d9184ddddc@lam.makabahay.sbs:46054/?sni=lam.makabahay.sbs&alpn=h3&insecure=0#Lam%20US%2025.2.1
-hysteria2://8cb33b43-4f00-4ac5-abc6-91c9967fc637@62.72.163.196:14568?alpn=h3&insecure=1#233boy-hysteria2-62.72.163.196
-hysteria2://f162e7c5-7767-474b-83e2-4006b279e147@[2604:abc0:103:413:6::71]:8881/?alpn=h3&insecure=1#PAS2%20US%2024.8.10
 hysteria2://075ee4ec-4cf0-4306-8718-632702f9addc@az.makabahay.sbs:57674/?sni=az.makabahay.sbs&alpn=h3&insecure=0#AZ%20KR%2025.7.12
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFaIEtSIDI1LjcuMTIiLA0KICAiYWRkIjogIjIwLjQxLjgxLjIwIiwNCiAgInBvcnQiOiAiMjA5NiIsDQogICJpZCI6ICIwNzVlZTRlYy00Y2YwLTQzMDYtODcxOC02MzI3MDJmOWFkZGMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImF6Lm1ha2FiYWhheS5zYnMiLA0KICAicGF0aCI6ICIwNzVlZTRlYy00Y2YwLTQzMDYtODcxOC02MzI3MDJmOWFkZGMtdm0iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiYXoubWFrYWJhaGF5LnNicyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-hysteria2://fa3b25cb-e53b-4e62-88ca-e7c18fd3bafa@gcp.makabahay.sbs:17096/?sni=gcp.makabahay.sbs&alpn=h3&insecure=0#GCP%20JP%2024.9.2
 hysteria2://e9918ad3-f8b7-4d28-a699-badebceae367@aws.makabahay.sbs:7931/?sni=aws.makabahay.sbs&alpn=h3&insecure=0#AWS%20SG%2025.5.31
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFXUyBTRyAyNS41LjMxIiwNCiAgImFkZCI6ICIxOC4xMzYuMTk3LjU1IiwNCiAgInBvcnQiOiAiMjA4NyIsDQogICJpZCI6ICJlOTkxOGFkMy1mOGI3LTRkMjgtYTY5OS1iYWRlYmNlYWUzNjciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImF3cy5tYWthYmFoYXkuc2JzIiwNCiAgInBhdGgiOiAiZTk5MThhZDMtZjhiNy00ZDI4LWE2OTktYmFkZWJjZWFlMzY3LXZtIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImF3cy5tYWthYmFoYXkuc2JzIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+hysteria2://fa3b25cb-e53b-4e62-88ca-e7c18fd3bafa@gcp.makabahay.sbs:17096/?sni=gcp.makabahay.sbs&alpn=h3&insecure=0#GCP%20JP%2024.9.2
+hysteria2://f162e7c5-7767-474b-83e2-4006b279e147@[2604:abc0:103:413:6::71]:8881/?alpn=h3&insecure=1#PAS%20US%2024.8.10
+hysteria2://8cb33b43-4f00-4ac5-abc6-91c9967fc637@62.72.163.196:14568/?alpn=h3&insecure=1#WAP%20HK
 https://free1.makabahay.sbs/d1bbb57c-c1c1-441b-8720-d7b20a67af39
 `
 
